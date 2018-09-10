@@ -1,0 +1,10 @@
+{
+  "name": "Go Dropbox",
+  "description": "A simple HTTP file exchanger",
+  "keywords": [
+    "fileserver",
+    "go"
+  ],
+  "website": "http://github.com/kemalelmizan/go-dropbox",
+  "repository": "http://github.com/kemalelmizan/go-dropbox"
+}
