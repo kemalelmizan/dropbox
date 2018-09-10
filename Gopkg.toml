@@ -32,3 +32,8 @@
 [prune]
   go-tests = true
   unused-packages = true
+
+[metadata.heroku]
+  root-package = "github.com/kemalelmizan/go-dropbox"
+  go-version = "1.11"
+  install = [ "./..." ]
